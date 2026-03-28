@@ -1,0 +1,13 @@
+# requirements.txt
+# Install all dependencies with:
+#   pip install -r requirements.txt
+#
+# These are the exact packages needed.
+# Versions are flexible (no pinning) so pip resolves
+# compatible versions for your Python version automatically.
+
+streamlit
+chromadb
+sentence-transformers
+pymupdf
+ollama
